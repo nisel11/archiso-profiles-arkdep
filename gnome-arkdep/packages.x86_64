@@ -20,6 +20,7 @@ fwupd
 gcc
 gdm
 git
+glibc-locales
 gnome-backgrounds
 gnome-calendar
 gnome-console
@@ -45,11 +46,13 @@ gvfs-smb
 gvfs-wsdd
 ibus-typing-booster
 libva-mesa-driver
-linux69
-linux69-headers
 linux-firmware
-manjaro-zsh-config
+linux610
+linux610-headers
 man-db
+manjaro-gnome-backgrounds
+manjaro-icons
+manjaro-zsh-config
 mesa
 mesa-vdpau
 mkinitcpio
@@ -67,6 +70,7 @@ openssh
 os-installer
 os-installer-config-arkdep
 pacman-contrib
+papirus-icon-theme
 pipewire
 pipewire-alsa
 pipewire-audio
@@ -86,6 +90,7 @@ terminus-font
 tpm2-tools
 tpm2-tss
 tpm2-tss-engine
+ttf-hack
 vulkan-icd-loader
 vulkan-intel
 vulkan-mesa-layers
