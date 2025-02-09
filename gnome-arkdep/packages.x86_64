@@ -47,8 +47,8 @@ gvfs-wsdd
 ibus-typing-booster
 libva-mesa-driver
 linux-firmware
-linux610
-linux610-headers
+linux613
+linux613-headers
 man-db
 manjaro-gnome-backgrounds
 manjaro-icons
