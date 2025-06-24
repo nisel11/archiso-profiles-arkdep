@@ -14,7 +14,8 @@ bluez-plugins
 bluez-utils
 breeze-gtk
 btrfs-progs
-calamares-summit
+calamares
+summit-calamares-config
 discover
 dmidecode
 dolphin
@@ -64,8 +65,8 @@ kwayland-integration
 kwin
 kwrited
 linux-firmware
-linux614
-linux614-headers
+linux615
+linux615-headers
 man-db
 manjaro-alsa
 manjaro-gstreamer
@@ -78,7 +79,8 @@ milou
 mkinitcpio
 mkinitcpio-archiso
 mtpfs
-neofetch
+fastfetch
+nano
 neovim
 networkmanager
 networkmanager-openconnect
